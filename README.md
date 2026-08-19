@@ -102,4 +102,4 @@ Exit 0 means clean. Exit 2 means findings on stderr.
 
 ## Licence
 
-MIT
+MIT. See [LICENSE](LICENSE).
