@@ -104,7 +104,9 @@ Exit 0 means clean. Exit 2 means findings on stderr.
 
 ## Support
 
-If this saves you some editing, you can [buy me a coffee on Ko-fi](https://ko-fi.com/abdulkadersafi).
+If this saves you some editing:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J11RP7T5)
 
 ## Licence
 
