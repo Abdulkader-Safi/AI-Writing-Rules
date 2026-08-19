@@ -1,6 +1,7 @@
 # Pattern 17: Heading tells
 
 ## What they are
+
 Five separate structural habits, all visible before anyone reads a word.
 
 **Title case in headings.** Capitalising Every Main Word. Human technical writing mostly uses sentence case.
@@ -16,9 +17,13 @@ Five separate structural habits, all visible before anyone reads a word.
 **Empty parent headings.** A heading with nothing under it except more headings.
 
 ## Why it happens
+
 Markdown-heavy training data plus a bias toward symmetrical, outline-shaped documents.
 
 ## Fix
+
 Sentence case. Skip the redundant title heading. Never skip a level. Name the heading after what is actually in the section, which is rarely two nouns joined by "and".
 
 Source: [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+
+<!-- slop-check: off (this file quotes bad examples on purpose) -->
