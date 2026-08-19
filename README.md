@@ -1,5 +1,7 @@
 # AI writing rules
 
+![AI writing rules](.github/thumbnail.png)
+
 A Claude Code plugin that stops Claude writing like an AI.
 
 It loads a compact ruleset into every session, ships a skill with 29 researched patterns, and runs a checker after every file write that flags the tells with line numbers and tells Claude to fix them.
@@ -99,6 +101,10 @@ echo '{"tool_input":{"file_path":"file.md"}}' | python3 scripts/slop-check.py
 ```
 
 Exit 0 means clean. Exit 2 means findings on stderr.
+
+## Support
+
+If this saves you some editing, you can [buy me a coffee on Ko-fi](https://ko-fi.com/abdulkadersafi).
 
 ## Licence
 
