@@ -11,6 +11,5 @@
   "homepage": "https://github.com/Abdulkader-Safi/AI-Writing-Rules",
   "repository": "https://github.com/Abdulkader-Safi/AI-Writing-Rules",
   "license": "MIT",
-  "keywords": ["writing", "style", "ai-slop", "editing", "prose", "anti-ai"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["writing", "style", "ai-slop", "editing", "prose", "anti-ai"]
 }
