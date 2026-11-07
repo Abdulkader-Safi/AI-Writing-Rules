@@ -45,19 +45,19 @@ Avoid: delve, tapestry, vibrant, multifaceted, nuanced, intricate, realm, landsc
 
 Plain word beats fancy synonym:
 
-| Not this | This |
-|---|---|
-| utilize | use |
-| facilitate | help |
-| regarding | about |
-| prior to | before |
-| in order to | to |
-| commence | start |
-| terminate | end |
-| ascertain | find out |
-| a number of | some, or the number |
-| serves as, stands as | is |
-| boasts, features | has |
+| Not this             | This                |
+| -------------------- | ------------------- |
+| utilize              | use                 |
+| facilitate           | help                |
+| regarding            | about               |
+| prior to             | before              |
+| in order to          | to                  |
+| commence             | start               |
+| terminate            | end                 |
+| ascertain            | find out            |
+| a number of          | some, or the number |
+| serves as, stands as | is                  |
+| boasts, features     | has                 |
 
 ## Rhythm
 
@@ -88,37 +88,37 @@ A question with a one-line answer gets a one-line answer, not five paragraphs wi
 
 Full detail, thresholds, and rewrites in `research/`.
 
-| # | Pattern | File |
-|---|---|---|
-| 01 | AI vocabulary | `research/01-ai-vocabulary.md` |
-| 02 | Corporate verb inflation | `research/02-corporate-verb-inflation.md` |
-| 03 | Dodging "is" and "are" | `research/03-copula-avoidance.md` |
-| 04 | Negative parallelism | `research/04-negative-parallelism.md` |
-| 05 | Rule of three on autopilot | `research/05-rule-of-three.md` |
-| 06 | Puffed-up significance | `research/06-puffed-significance.md` |
-| 07 | Trailing "-ing" commentary | `research/07-participle-commentary.md` |
-| 08 | Vague attribution | `research/08-vague-attribution.md` |
-| 09 | Promotional language | `research/09-promotional-language.md` |
-| 10 | Empty-opener cliches | `research/10-empty-openers.md` |
-| 11 | Pseudo-wisdom filler | `research/11-pseudo-wisdom-filler.md` |
-| 12 | Transition-word stacking | `research/12-transition-stacking.md` |
-| 13 | Uniform sentence length | `research/13-low-burstiness.md` |
-| 14 | Thin punctuation | `research/14-punctuation-thinness.md` |
-| 15 | Em dash overuse | `research/15-em-dash-density.md` |
-| 16 | Curly quotes | `research/16-curly-quotes.md` |
-| 17 | Heading tells | `research/17-heading-tells.md` |
-| 18 | Excessive bold | `research/18-excessive-bold.md` |
-| 19 | Forced tables | `research/19-forced-tables.md` |
-| 20 | Outline-shaped endings | `research/20-outline-endings.md` |
-| 21 | Elegant variation | `research/21-elegant-variation.md` |
-| 22 | Hedging everything | `research/22-hedging.md` |
-| 23 | Assistant scaffolding | `research/23-assistant-scaffolding.md` |
-| 24 | Model artifacts | `research/24-model-artifacts.md` |
-| 25 | The deletion test | `research/25-deletion-test.md` |
-| 26 | Canned summaries | `research/26-canned-summaries.md` |
-| 27 | Narrow vocabulary range | `research/27-narrow-vocabulary.md` |
-| 28 | Treating the title as a thing | `research/28-lead-construction.md` |
-| 29 | Register mismatch | `research/29-register-mismatch.md` |
+| #   | Pattern                       | File                                      |
+| --- | ----------------------------- | ----------------------------------------- |
+| 01  | AI vocabulary                 | `research/01-ai-vocabulary.md`            |
+| 02  | Corporate verb inflation      | `research/02-corporate-verb-inflation.md` |
+| 03  | Dodging "is" and "are"        | `research/03-copula-avoidance.md`         |
+| 04  | Negative parallelism          | `research/04-negative-parallelism.md`     |
+| 05  | Rule of three on autopilot    | `research/05-rule-of-three.md`            |
+| 06  | Puffed-up significance        | `research/06-puffed-significance.md`      |
+| 07  | Trailing "-ing" commentary    | `research/07-participle-commentary.md`    |
+| 08  | Vague attribution             | `research/08-vague-attribution.md`        |
+| 09  | Promotional language          | `research/09-promotional-language.md`     |
+| 10  | Empty-opener cliches          | `research/10-empty-openers.md`            |
+| 11  | Pseudo-wisdom filler          | `research/11-pseudo-wisdom-filler.md`     |
+| 12  | Transition-word stacking      | `research/12-transition-stacking.md`      |
+| 13  | Uniform sentence length       | `research/13-low-burstiness.md`           |
+| 14  | Thin punctuation              | `research/14-punctuation-thinness.md`     |
+| 15  | Em dash overuse               | `research/15-em-dash-density.md`          |
+| 16  | Curly quotes                  | `research/16-curly-quotes.md`             |
+| 17  | Heading tells                 | `research/17-heading-tells.md`            |
+| 18  | Excessive bold                | `research/18-excessive-bold.md`           |
+| 19  | Forced tables                 | `research/19-forced-tables.md`            |
+| 20  | Outline-shaped endings        | `research/20-outline-endings.md`          |
+| 21  | Elegant variation             | `research/21-elegant-variation.md`        |
+| 22  | Hedging everything            | `research/22-hedging.md`                  |
+| 23  | Assistant scaffolding         | `research/23-assistant-scaffolding.md`    |
+| 24  | Model artifacts               | `research/24-model-artifacts.md`          |
+| 25  | The deletion test             | `research/25-deletion-test.md`            |
+| 26  | Canned summaries              | `research/26-canned-summaries.md`         |
+| 27  | Narrow vocabulary range       | `research/27-narrow-vocabulary.md`        |
+| 28  | Treating the title as a thing | `research/28-lead-construction.md`        |
+| 29  | Register mismatch             | `research/29-register-mismatch.md`        |
 
 ## Checklist before sending
 
