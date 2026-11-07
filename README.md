@@ -43,6 +43,8 @@ Writing rules: 5 issue(s) in guide.md. Fix before moving on.
 
 **Rewrites on request.** `/deslop path/to/file.md` audits a file, rewrites it, and re-runs the checker to confirm it comes back clean. With no argument it works on the last thing Claude wrote.
 
+**Writes and audits website copy.** `/copywrite` checks the current project's pages against 36 researched copywriting rules (headlines, CTAs, proof, pricing terms, SEO, accessibility) and reports each problem with `file:line` and a rewrite. On a new or empty project it asks for the research first, then writes the pages, marking every missing fact as a TODO instead of inventing one. Pass a path or URL to target something else.
+
 ## What gets checked
 
 Regex rules with line numbers:
@@ -87,7 +89,9 @@ scripts/
 skills/anti-ai-writing/
   SKILL.md             full ruleset and the pattern index
 commands/deslop.md     /deslop
+commands/copywrite.md  /copywrite
 research/              29 patterns, one per file
+copywriting/           36 website copy rules, one per file
 ```
 
 ## Requirements

@@ -1,8 +1,8 @@
 {
   "name": "ai-writing-rules",
   "displayName": "AI writing rules",
-  "version": "0.1.0",
-  "description": "Makes Claude write like a sharp, plain-spoken human. Loads 29 researched anti-AI-writing patterns at session start and checks every file it writes for tells.",
+  "version": "0.2.0",
+  "description": "Makes Claude write like a sharp, plain-spoken human. Loads 29 researched anti-AI-writing patterns at session start and checks every file it writes for tells. /copywrite audits or writes website copy against 36 researched copywriting rules.",
   "author": {
     "name": "Abdulkader Safi",
     "email": "safi.abdulkader@gmail.com",
