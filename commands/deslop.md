@@ -12,7 +12,7 @@ Steps:
 1. Read the target. If it is a file, run the checker on it first:
    `echo '{"tool_input":{"file_path":"TARGET"}}' | python3 "${CLAUDE_PLUGIN_ROOT}/scripts/slop-check.py"`
 
-2. Read `${CLAUDE_PLUGIN_ROOT}/skills/anti-ai-writing/SKILL.md` if it is not already in context. Open the specific files in `${CLAUDE_PLUGIN_ROOT}/research/` for any pattern the checker flagged that you are unsure how to fix.
+2. Read `${CLAUDE_PLUGIN_ROOT}/skills/anti-ai-writing/SKILL.md` if it is not already in context. Open the specific files in `${CLAUDE_PLUGIN_ROOT}/skills/anti-ai-writing/research/` for any pattern the checker flagged that you are unsure how to fix.
 
 3. Beyond what the checker catches by regex, judge these by reading:
    - The deletion test. Remove each sentence in turn. If the paragraph loses nothing, the sentence goes.

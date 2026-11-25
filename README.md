@@ -67,11 +67,11 @@ Some files quote bad examples on purpose. Add this anywhere in the file:
 <!-- slop-check: off -->
 ```
 
-Every file in `research/` carries it, for that reason.
+Every file in `skills/anti-ai-writing/research/` carries it, for that reason.
 
 ## The research
 
-`research/` holds one file per pattern: what it is, why models produce it, the measurable threshold where one exists, a bad example, the rewrite, and the fix. Start at [research/README.md](research/README.md).
+`skills/anti-ai-writing/research/` holds one file per pattern: what it is, why models produce it, the measurable threshold where one exists, a bad example, the rewrite, and the fix. Start at [its README](skills/anti-ai-writing/research/README.md).
 
 The headline finding is that no single pattern proves anything. Every one has an innocent explanation on its own. Three or four converging in the same piece is the signal, which is why the checker reports a count rather than a verdict.
 
@@ -88,9 +88,9 @@ scripts/
   slop-check.sh        wrapper, no-ops without python3
 skills/anti-ai-writing/
   SKILL.md             full ruleset and the pattern index
+  research/            29 patterns, one per file
 commands/deslop.md     /deslop
 commands/copywrite.md  /copywrite
-research/              29 patterns, one per file
 copywriting/           36 website copy rules, one per file
 ```
 

@@ -270,7 +270,7 @@ def main():
         out.append(f"  {label}{more}: {hint}")
         if locs:
             out.append(f"    {locs}")
-    out.append("\nDetail: the anti-ai-writing skill, or research/ in the plugin.")
+    out.append("\nDetail: the anti-ai-writing skill, or skills/anti-ai-writing/research/ in the plugin.")
     sys.stderr.write("\n".join(out) + "\n")
     return 2
 
