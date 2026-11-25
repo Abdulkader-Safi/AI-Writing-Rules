@@ -22,7 +22,7 @@ No controlled test of AI-written against human-written website copy was found. B
 - Inventing figures or testimonials (a legal risk, see Rule 17)
 - Writing generic claims any competitor could use
 - Adding hype words and padding
-- Producing patterns readers recognise as AI: see the [research/](../research/README.md) folder for the full list
+- Producing patterns readers recognise as AI: see the [research/](../skills/anti-ai-writing/research/README.md) folder for the full list
 
 ## Bad
 

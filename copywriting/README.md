@@ -2,7 +2,7 @@
 
 36 rules, one per file. They cover conversion copy (getting a sign-up, sale, lead or booking) and general website copy (clear, scannable, on-brand, accessible, findable). Each file has what the rule is, why it works, a check, a bad example, a good example, the fix and its sources.
 
-These sit alongside the [AI writing patterns](../research/README.md). The patterns stop copy sounding machine-made. These rules make it do its job.
+These sit alongside the [AI writing patterns](../skills/anti-ai-writing/research/README.md). The patterns stop copy sounding machine-made. These rules make it do its job.
 
 ## The core finding
 
