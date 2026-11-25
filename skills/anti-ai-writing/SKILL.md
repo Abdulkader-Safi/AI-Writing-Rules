@@ -63,7 +63,7 @@ Plain word beats fancy synonym:
 
 Vary sentence length. A three-word sentence is legitimate. So is a forty-word one that carries a genuinely long thought through several clauses before it lands.
 
-Measured: burstiness (sentence-length standard deviation divided by mean) sits at 0.6 to 1.2 in human prose and 0.2 to 0.4 in AI output. Uniform 18 to 24 word sentences, paragraph after paragraph, is the single biggest tell of 2026.
+Measured: burstiness (sentence-length standard deviation divided by mean) sits at 0.6 to 1.2 in human prose and 0.2 to 0.4 in AI output. Uniform 18 to 24 word sentences, paragraph after paragraph, is the single biggest tell.
 
 Do not lean on commas and "and". Use colons, full stops, and brackets.
 
